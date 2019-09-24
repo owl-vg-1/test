@@ -2,7 +2,7 @@
 
 namespace App;
 
-interface Calc
+interface CalcInterface
 {
     
     public function multiply(float $a, float $b): float;
